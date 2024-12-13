@@ -11,7 +11,6 @@ https://alba-cr-repretel-c11.stream.mediatiquestream.com/live2/alba-cr-repretel-
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/live2/alba-cr-repretel-c4_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="Canal2.cr"tvg-logo="https://i.imgur.com/Nn8BtH5.png"group-title="General":http-referrer="":http-user-agent="",Repretel 2
 https://alba-cr-repretel-c2.stream.mediatiquestream.com/live2/alba-cr-repretel-c2_720p/chunks.m3u8
-
 #EXTINF:-1 tvg-id="Canal17TVNosara.cr"tvg-logo="https://i.imgur.com/pqMTMgF.jpg"group-title="General":http-referrer="":http-user-agent="",Canal 17 TV Nosara
 https://acceso.radiosportstv.online:3430/hybrid/play.m3u8
 
