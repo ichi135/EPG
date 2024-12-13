@@ -2,34 +2,49 @@
 #EXTINF:-1 tvg-id="Teletica7.cr"tvg-logo="https://i.imgur.com/ctnvE3c.png"group-title="General":http-referrer="https://bradmax.com/client/embed-player/c7c83ebb46fa89529a7383d933e2038729f8e4c9_13428?id=tv7&mediaUrl=https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8&mediaUrl2=https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8":http-user-agent="",Teletica 7
 #EXTVLCOPT:http-referrer=https://bradmax.com/client/embed-player/c7c83ebb46fa89529a7383d933e2038729f8e4c9_13428?id=tv7&mediaUrl=https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8&mediaUrl2=https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8
 https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-id="Canal6.cr"tvg-logo="https://i.imgur.com/nfKJftW.png"group-title="General":http-referrer="":http-user-agent="",Repretel 6
 https://d1vr8yxz55pucr.cloudfront.net/original.m3u8
+
 #EXTINF:-1 tvg-id="Canal11.cr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/512px-Repretel_11_logo.png"group-title="General":http-referrer="":http-user-agent="",Repretel 11
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/live2/alba-cr-repretel-c11_720p/chunks.m3u8
+
 #EXTINF:-1 tvg-id="Canal4.cr"tvg-logo="https://i.imgur.com/5arZEgO.png"group-title="General":http-referrer="":http-user-agent="",Repretel 4
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/live2/alba-cr-repretel-c4_720p/chunks.m3u8
+
 #EXTINF:-1 tvg-id="Canal2.cr"tvg-logo="https://i.imgur.com/Nn8BtH5.png"group-title="General":http-referrer="":http-user-agent="",Repretel 2
 https://alba-cr-repretel-c2.stream.mediatiquestream.com/live2/alba-cr-repretel-c2_720p/chunks.m3u8
+
 #EXTINF:-1 tvg-id="Canal17TVNosara.cr"tvg-logo="https://i.imgur.com/pqMTMgF.jpg"group-title="General":http-referrer="":http-user-agent="",Canal 17 TV Nosara
 https://acceso.radiosportstv.online:3430/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-id="Canal8.cr"tvg-logo="https://i.imgur.com/nefPi2Y.png"group-title="General":http-referrer="":http-user-agent="",Canal 8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
 #EXTINF:-1 tvg-id="Canal9.cr"tvg-logo="https://i.imgur.com/7knekJU.png"group-title="General":http-referrer="":http-user-agent="",Canal 9
 http://201.201.149.86:8080/livestream/stream.m3u8
+
 #EXTINF:-1 tvg-id="CaribeTVCR.cr"tvg-logo="https://i.imgur.com/G0BRKFc.jpg"group-title="General":http-referrer="":http-user-agent="",Caribe TV CR
 https://rpn3.bozztv.com/ssh101/ssh101/sinart/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CartagoMediosTV.cr"tvg-logo="https://i.imgur.com/Vcd40AL.png"group-title="General":http-referrer="":http-user-agent="",Cartago Medios TV
 https://tvdatta.com:3384/live/cartagomedioslive.m3u8
+
 #EXTINF:-1 tvg-id="Canal1.cr"tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png"group-title="General":http-referrer="":http-user-agent="",Canal 1
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ComunicacionesJimenez.cr"tvg-logo="https://i.imgur.com/4AvgY72.jpg"group-title="General":http-referrer="":http-user-agent="",Comunicaciones Jimenez
 https://s1.tvdatta.com:3156/live/jimeneztvlive.m3u8
+
 #EXTINF:-1 tvg-id="FaroPuntarenasTV.cr"tvg-logo="https://i.imgur.com/IhG8gGy.jpg"group-title="General":http-referrer="":http-user-agent="",Faro Puntarenas TV
 https://rpn3.bozztv.com/ssh101/ssh101/faroptv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LimonTV.cr"tvg-logo="https://i.ibb.co/rdpcv7C/1689421727166.jpg"group-title="General":http-referrer="":http-user-agent="",Limon TV
 https://59ef525c24caa.streamlock.net//limontv1//limontv1//chunklist_w1710248255.m3u8
+
 #EXTINF:-1 tvg-id="LosSantosTV.cr"tvg-logo="https://i.imgur.com/5xw86wu.png"group-title="General":http-referrer="":http-user-agent="",Los Santos TV
 https://lstv.duckdns.org:449/hls/lstv.m3u8
+
 #EXTINF:-1 tvg-id="GarabitoTV.cr"tvg-logo="https://i.imgur.com/sAYNKJ8.png"group-title="General":http-referrer="":http-user-agent="",Garabito TV
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 #EXTINF:-1 tvg-id="GuatusoTV.cr"tvg-logo="https://www.grupodgrajal.com/images/logoguatusochannel.png"group-title="General":http-referrer="":http-user-agent="",Guatuso TV
