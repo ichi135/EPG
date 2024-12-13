@@ -69,8 +69,6 @@ http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 tvg-id="TVSurCanal14.cr" tvg-logo="https://i.imgur.com/OpHYYZA.png" group-title="General",TV Sur Canal 14
 https://k20.usastreams.com:8081/tvsur/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:-1 tvg-id="CotoBrusTV.cr" tvg-logo="https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png" group-title="Entretenimiento",Coto Brus TV
 https://sistemastr.tropicalmoonmedia.com:443/live/8B23A26870731B704158403B83BE54B4/26.m3u8
 #EXTINF:-1 tvg-id="GAMTVcr.cr" tvg-logo="https://i.ibb.co/xFCS7wM/GAMTVCR.png" group-title="Entretenimiento",Gam TV
