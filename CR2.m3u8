@@ -1,0 +1,173 @@
+﻿#EXTM3U8
+#EXTINF:-1,Teletica 7
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
+#EXTINF:-1,Repretel 6
+https://d1vr8yxz55pucr.cloudfront.net/original.m3u8
+#EXTINF:-1,Repretel 11
+https://alba-cr-repretel-c11.stream.mediatiquestream.com/live2/alba-cr-repretel-c11_720p/chunks.m3u8
+#EXTINF:-1,Repretel 4
+https://alba-cr-repretel-c4.stream.mediatiquestream.com/live2/alba-cr-repretel-c4_720p/chunks.m3u8
+#EXTINF:-1,Repretel 2
+https://alba-cr-repretel-c2.stream.mediatiquestream.com/live2/alba-cr-repretel-c2_720p/chunks.m3u8
+#EXTINF:-1,Canal 17 TV Nosara
+https://acceso.radiosportstv.online:3430/hybrid/play.m3u8
+#EXTINF:-1,Canal 8
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1,Canal 9
+http://201.201.149.86:8080/livestream/stream.m3u8
+#EXTINF:-1,Caribe TV CR
+https://rpn3.bozztv.com/ssh101/ssh101/sinart/playlist.m3u8
+#EXTINF:-1,Cartago Medios TV
+https://tvdatta.com:3384/live/cartagomedioslive.m3u8
+#EXTINF:-1,Canal 1
+https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
+#EXTINF:-1,Comunicaciones Jimenez
+https://s1.tvdatta.com:3156/live/jimeneztvlive.m3u8
+#EXTINF:-1,Faro Puntarenas TV
+https://rpn3.bozztv.com/ssh101/ssh101/faroptv/playlist.m3u8
+#EXTINF:-1,Limon TV
+https://59ef525c24caa.streamlock.net//limontv1//limontv1//chunklist_w1710248255.m3u8
+#EXTINF:-1,Los Santos TV
+https://lstv.duckdns.org:449/hls/lstv.m3u8
+#EXTINF:-1,Garabito TV
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
+#EXTINF:-1,Guatuso TV
+https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8
+#EXTINF:-1,Meganet TV
+https://250weu.bozztv.com/ssh101/ssh101/meganettv/playlist.m3u8
+#EXTINF:-1,Trece Costa Rica Television
+https://live-c.cf.dmcdn.net/sec2(vdluLUbsHDe-9b9uX5baJce8AyP95mk1p8Rf404zDmcK4CVU8MbtNtG2A2mhS4u4ue0m0pegLvHExlOJRHu2aCJRpYOyZeAbZQVQSGbsx8Yeju9MWYX5bs8-9lsV_Fqu)/dm/3/x7vh8g3/d/live-720.m3u8
+#EXTINF:-1, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Trivision 36
+https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
+#EXTINF:-1,TV Curre
+http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
+#EXTINF:-1,Sarapiqui TV
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+#EXTINF:-1,Zurqui TV
+https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
+#EXTINF:-1,TDtv
+https://cloudvideo.servers10.com:8081/8230/index.m3u8
+#EXTINF:-1,TeleBrunca
+https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/chunklist_w1053091146.m3u8
+#EXTINF:-1,Telered Television
+https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Telesistema
+https://fl1004.bozztv.com/ssh101/telesistemacrtv/index.m3u8
+#EXTINF:-1,TeleSUR Costa Rica
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+#EXTINF:-1,TicaVision
+https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/chunklist_w901945748.m3u8
+#EXTINF:-1,TV Santa Cruz
+https://rtmp.info/tvsantacruz/envivo/playlist.m3u8
+#EXTINF:-1,Tele Uno
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1,TVN 14
+http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
+#EXTINF:-1,Norte Informativo TV
+https://videohd.live:19360/8076/8076.m3u8
+#EXTINF:-1,TV Sur Canal 14
+https://k20.usastreams.com:8081/tvsur/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Coto Brus TV
+https://sistemastr.tropicalmoonmedia.com:443/live/8B23A26870731B704158403B83BE54B4/26.m3u8
+#EXTINF:-1,Gam TV
+https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,+Cine
+https://tv.streaming-chile.com:19360/8142/8142.m3u8?WebM3UCL
+#EXTINF:-1,+Cine Classic
+https://fl1002.bozztv.com/ssh101/mascineclasico/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Colosal TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1,MetaVersus CR
+https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
+#EXTINF:-1,¡OPA!
+https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/chunklist_w760039014.m3u8
+#EXTINF:-1,Tica TV+
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/.m3u8
+#EXTINF:-1,Retrox TV
+https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
+#EXTINF:-1,TV Sur Canal 9
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+#EXTINF:-1,Canal 10
+https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
+#EXTINF:-1,Canal 10.1
+https://acceso.radiosportstv.online:3384/stream/play.m3u8
+#EXTINF:-1,NicoyaTV
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
+#EXTINF:-1,RTV Chirripo
+https://lstv.duckdns.org:449/hls/rtchirripo.m3u8
+#EXTINF:-1,Retro TV Palmares
+https://ssh101.bozztv.com/ssh101/tvretropalmares/chunks.m3u8
+#EXTINF:-1,FUTV
+https://acceso.radiosportstv.online:3206/stream/play.m3u8
+#EXTINF:-1,Tigo Deportes
+https://acceso.radiosportstv.online:3795/stream/play.m3u8
+#EXTINF:-1,Mas Ciclismo TV
+https://ssh101.bozztv.com/ssh101/masciclismo/playlist.m3u8
+#EXTINF:-1,Turrialba TV 18 Sports
+https://acceso.radiosportstv.online:3151/live/turrialbatvlive.m3u8
+#EXTINF:-1,TV Tica
+https://video.misistemareseller.com:1936/tvtica/tvtica/chunklist_w60158658.m3u8
+#EXTINF:-1,DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:-1,DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1,HiperTV
+https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/chunklist_w2044361084.m3u8
+#EXTINF:-1,Antena Seis TV
+https://video1.azulstream.com:8081/antenaseistv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Costa Rica Channel
+https://video0.rogohosting.com:19360/8006/8006.m3u8
+#EXTINF:-1,TV+
+https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8
+#EXTINF:-1,Multizonas TV
+https://cloudvideo.servers10.com:8081/8068/index.m3u8
+#EXTINF:-1,Quince UCR
+http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8
+#EXTINF:-1,RTTV
+https://cloudvideo.servers10.com:19360/8212/8212.m3u8
+#EXTINF:-1,San Vito Television
+https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
+#EXTINF:-1,VoiceOver Radio TV
+https://cloudvideo.servers10.com:8081/8198/index.m3u8
+#EXTINF:-1,Xpresso Joven TV
+https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/playlist.m3u8
+#EXTINF:-1,IQ Channel
+https://rtmp.info/iqtv/envivo/playlist.m3u8
+#EXTINF:-1,88 Stereo
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1,Canal 3 KMK TV
+https://cloudvideo.servers10.com:8081/8120/index.m3u8
+#EXTINF:-1,Urbano TV
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
+#EXTINF:-1,Video Tour Channel
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+#EXTINF:-1,Vintage Music
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
+#EXTINF:-1,VM Latino
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1,Zona Music TV
+https://acceso.radioDeportestv.online:3022/stream/play.m3u8
+#EXTINF:-1,Soy Plancha TV
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
+#EXTINF:-1,Radio Puerto TV
+https://cloudvideo.servers10.com:8081/8256/index.m3u8
+#EXTINF:-1,Oldies Hits
+https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
+#EXTINF:-1,Agrotendencia TV
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+#EXTINF:-1,TV Legislativa
+https://ythls.armelin.one/channel/UCWN0rIWneMdqRmZ4yHs5GuA.m3u8
+#EXTINF:-1,Cristo Vision Canal 31
+https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
+#EXTINF:-1,Enlace
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1,Enlace Juvenil
+https://11554-1.b.cdn13.com/EJTV/smil:ejtv-hd.smil/playlist.m3u8
+#EXTINF:-1,Extrema TV
+https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1,Luz Naciente TV
+https://streeming.protoscr.com:3858/live/streeminglive.m3u8
+#EXTINF:-1,Telefides
+https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
+#EXTINF:-1,San Jose TV
+https://rtmp.info/sanjosetv/envivo/playlist.m3u8
